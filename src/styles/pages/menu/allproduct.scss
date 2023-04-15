@@ -1,0 +1,137 @@
+.all-products {
+  background-color: #f9f9f9;
+  border: 1px solid #dbd9d7;
+  font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.all-product-category{
+  width: 800px !important;
+}
+.hot-cofee{
+  width: 900px;
+}
+.hot-cofee span{
+margin-left: 10px ;
+font-size: 20px;
+}
+.links:visited{
+  color: black;
+}
+.hot-cofee li{
+      margin-right: 120px !important;
+      margin-bottom: 30px;
+      
+  }
+.hot-cofee img{
+  width: 112px !important;
+                height: 112px !important; 
+                border-radius: 50px;
+                  vertical-align: middle;
+          }
+          .all-product-category ul {
+            display: flex;
+flex-wrap: wrap;
+          }
+          .all-product-category hr{
+            padding-bottom: 32px !important;
+margin: 0;
+border: 0;
+border-top: 1px solid rgba(0,0,0,.1);
+    ;
+          }
+          .all-product-category h2{
+              padding-bottom: 16px !important;
+          }
+          .all-product-category{
+            width: 500px;
+      }
+
+.all-productss {
+
+  width: 100%;
+  font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  // height: 120px;
+  padding-left: 71px;
+
+
+.drinks li,.food li,.merch li,.home_coffee li,.gift li{
+    margin-top: 15px;
+}
+  .container {
+   max-width: 1400px;
+   margin: 0 auto;
+   display: flex;
+
+
+ .all-product-left{
+  margin-top: 50px;
+  width: 150px;
+  margin-right: 119px;
+  
+ 
+  .drinks{
+    color:  rgba(0,0,0,.58);
+    margin-left: 30px;
+     margin-top: 0px;
+     margin-right: 0;
+  width: 150px;
+
+    h3{
+
+      color: black !important;
+      font-size: 18px;
+      margin-bottom: 25px;
+      ul{
+
+        li{
+          margin-bottom: 15px;
+        }
+      }
+    }
+  }
+
+  
+  .food,.merch,.home_coffee,.gift{
+    margin: 30px;
+    color:  rgba(0,0,0,.58);
+    width: 150px;
+    margin-right: 0;  
+
+    h3{
+      font-size: 18px;
+      color: black !important;
+      
+      ul{
+        width: 150px;
+        height: 288px;
+        li{
+
+        }
+      }
+    }
+  }
+ }
+
+.all-product-rihgt{
+  justify-content: center;
+  margin-top: 40px;
+  h1{
+  height: 100px !important;
+  padding-bottom: 48px;
+        
+        .hot-cofee{
+            padding-top: 32px;
+          ul{
+
+           
+              img{
+                border-radius: 50%;
+              object-fit: contain;
+          
+              
+              }
+            }
+          }
+        }
+      }
+    }
+  }

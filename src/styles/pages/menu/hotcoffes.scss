@@ -1,0 +1,102 @@
+.coffee_page{
+  width: 100%;
+  height: 100%;
+  font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.americano img{
+  width: 280px;
+  height: 280px;
+}
+.americano h1{
+  margin-top: 100px !important;
+margin-bottom: 20px;
+
+
+}
+.add_order{
+  cursor: pointer;
+  position: fixed;
+  background-color: #00754a;
+  color: white;
+  font-size: 20px;
+  bottom: 120px;
+  right: 50px;
+  width: 160px;
+  height: 60px;
+  border-radius: 30px;
+  border: 0;
+}
+.footer_of_page :nth-child(2){
+  background: url("https://www.starbucks.com/app-assets/9c51700b42896823747e5d9f27519d03.svg") no-repeat;
+  width: 33px;
+  height: 35px;
+  cursor: pointer;
+}
+.footer_of_page :first-child{
+  text-decoration: underline;
+  text-underline-offset: 10px;}
+.footer_of_page button{
+background-color: transparent;
+border: none;
+color: white;
+}
+.footer_of_page{
+  padding: 30px;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  background-color: #1f3933;
+  width: 100%;
+  height: 90px;
+  color: white;
+  justify-content: space-around;
+  font-size: 25px !important;
+}
+.americano span{
+  color: hsla(0,0%,100%,.7)!important;
+  font-size: 24px;
+}
+.americano{
+  font-size: 18px;
+  height: 350px;
+  display: flex;
+  background-color: #1f3933;
+  color: white;
+  justify-content: space-evenly;
+
+}
+.choose h4{ 
+  margin: 10px 0;
+}
+.sugar{
+  color: white !important;
+  display: flex;
+  margin: 20px 0;
+}
+.choose h2{
+margin: 20px 10px;
+}
+.full button{
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+
+}
+.full{
+  cursor: pointer;
+
+  border: 1px solid white;
+  border-radius: 26px;
+  width: 280px;
+  height: 40px;
+  text-align: center;
+}
+
+.choose{
+  display: flex;
+  justify-content: space-around;
+
+}

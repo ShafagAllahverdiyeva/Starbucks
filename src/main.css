@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+@import "../src/styles/components/header.scss";
+@import "../src/styles/pages/home.scss";
+@import "../src//styles/components/footer.scss"
